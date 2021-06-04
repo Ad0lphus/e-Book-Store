@@ -1,4 +1,4 @@
-# e-BOOK STORE
+# e-BOOK STORE (python 3.7.x X MySQL)
 
 
 ---
